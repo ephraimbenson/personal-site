@@ -27,6 +27,7 @@
     font-size: 1.2em;
     margin-bottom: 5px;
     letter-spacing: 0.05em;
+    text-decoration: none;
 }
 
 .socials {
@@ -60,6 +61,7 @@
     align-items: center;
     letter-spacing: 0.05em;
     transition: all 0.2s ease;
+    text-decoration: none;
 }
 
 .footer-button:hover {
