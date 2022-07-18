@@ -14,7 +14,8 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Montserrat';
+    src: url(/fonts/Montserrat/Montserrat-Bold.ttf);
 }
 
 h2 {
@@ -46,7 +47,7 @@ a, span {
     font-weight: 700;
 }
 
-.pink {
+.blue {
     font-family: inherit;
     font-size: inherit;
     font-weight: inherit;
