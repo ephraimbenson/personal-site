@@ -13,9 +13,13 @@ body {
     background-color: #3B0086;
 }
 
-h1, h2, h3 {
+@font-face {
     font-family: 'Montserrat';
     src: url(/fonts/Montserrat/Montserrat-Bold.ttf);
+  }
+
+h1, h2, h3 {
+    font-family: 'Montserrat';
 }
 
 h2 {
