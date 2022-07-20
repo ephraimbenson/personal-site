@@ -87,14 +87,14 @@ section {
 }
 
 section .hyperlink {
-    color: #f26419;
-    font-weight: 700;
-    text-decoration: underline;
+    color: #3B0086;
+    font-style: italic;
+    text-decoration: none;
     transition: all 0.2s ease;
 }
 
 section .hyperlink:hover {
-    color: #7EB77F;
+    color: #30BCED;
 }
 
 .section-description {
