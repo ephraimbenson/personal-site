@@ -28,6 +28,9 @@ em {
     border-radius: 10px 10px 0 0;
     padding: 5px;
     background-color: white;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card-info {
