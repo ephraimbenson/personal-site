@@ -1,6 +1,6 @@
 # [ephraimbenson.com](https://ephraimbenson.com/)
 
-My public facing personal website.
+Static, public-facing portfolio website.
 
 ---
 
