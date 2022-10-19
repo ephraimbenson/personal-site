@@ -1,6 +1,8 @@
 # [ephraimbenson.com](https://ephraimbenson.com/)
 
-Static, public-facing portfolio website.
+My public facing personal website.
+
+`python3 -m http.server --directory .`
 
 ---
 
